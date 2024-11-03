@@ -10,6 +10,7 @@ For this project, we used Google Colab Pro+ for compute resources. Here, we coul
 The project concluded that this type of network is not sufficient to produce synthetic images that resemble real ones. From here, the dental institute can further develop various architectures on their own. All in all, we would describe this “non-finding” as a success.
 
 **Further Exploration of Results**
+
 In addition to the project overview provided above, we invite you to explore the scientific paper titled "GAN_paper.pdf" located in this repository. This paper delves deeper into the findings of our project, discussing the implications of our results and offering insights into the performance of the Wasserstein GAN with Gradient Penalty (WGAN-GP) architecture. We believe that this document will provide valuable context and a more comprehensive understanding of our work.
 
 ## Results
